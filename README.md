@@ -30,6 +30,8 @@ _________________________________________________________________
 ## Accuracy Of the Model
 
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
+ 
+ <br>
  Testing Acc :  0.9850000143051147
  Testing Precision  0.9801980257034302
  Testing Recall  0.9900000095367432
