@@ -1,6 +1,6 @@
 # Crack-Data
 
-##Model Description
+## Model Description
 
 We use ResNet50V2 model from TensorFlow's Keras library for transfer learning. This model is a version of the ResNet50 model that has been updated with improved architecture and performance.
 
@@ -27,7 +27,7 @@ Trainable params: 23,521,409
 Non-trainable params: 45,440
 _________________________________________________________________
 
-##Accuracy Of the Model
+## Accuracy Of the Model
 
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
  Testing Acc :  0.9850000143051147
