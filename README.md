@@ -27,15 +27,17 @@ Trainable params: 23,521,409
 Non-trainable params: 45,440
 _________________________________________________________________
 
+![download (9)](https://user-images.githubusercontent.com/63531290/212933957-890a6644-acb9-410a-87ec-bbbe512a0b7d.png)
+
 ## Accuracy Of the Model
 
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
- 
- <br>
  Testing Acc :  0.9850000143051147
  Testing Precision  0.9801980257034302
  Testing Recall  0.9900000095367432
  
+ ![Screenshot (1271)](https://user-images.githubusercontent.com/63531290/212934954-9b2a073f-8ebd-4039-81ed-f3597ed63b4a.png)
+
  
  Accuracy: 0.985 is a good value, it means that the model is able to correctly identify cracks in images with a 98.5% rate.
 
