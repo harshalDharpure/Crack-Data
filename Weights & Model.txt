@@ -1,0 +1,4 @@
+Google drive Link :-  https://drive.google.com/drive/folders/16s6Gz_jf2osJvpelIbe9cgrRDCa7pNXP?usp=share_link
+
+
+Link Contains the best Fit weights and Model.h5 file of Trained Resnet50v Model
