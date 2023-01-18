@@ -46,3 +46,8 @@ Precision: 0.980 is also a good value, it means that when the model predicts tha
 Recall: 0.990 is a good value, it means that the model is able to identify 99% of the images that contain cracks.
 
 while these values are indicative of good performance, they should be interpreted in the context of the specific task and dataset, and should be compared against a suitable baseline. Additionally, it's always a good idea to test the model on a different set of images to ensure its generalization capabilities.
+
+![Screenshot (1274)](https://user-images.githubusercontent.com/63531290/213128906-037f1278-37d3-4360-a988-6ec0fa093bda.png)
+
+
+An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9655172494444295 would indicate a relatively high level of accuracy.
