@@ -52,6 +52,26 @@ while these values are indicative of good performance, they should be interprete
 
 An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9655172494444295 would indicate a relatively high level of accuracy.
 
+## -------------------------------------------------------------------------------------------------------------------------------------------------
+
+# ResNet50 TransferLearning Model
+ResNet-50 is a 50-layer convolutional neural network
+
+![image](https://user-images.githubusercontent.com/87661736/213517377-7905dcdb-8e08-44de-8795-92e47d6d2a94.png)
+
+## Accuracy Of the Model
+7/7 [==============================] - 2s 85ms/step - loss: 0.0217 - accuracy: 0.9950 - precision: 0.9901 - recall: 1.0000
+ Testing Acc :  0.9950000047683716
+ Testing Precision  0.9900990128517151
+ Testing Recall  1.0
+ 
+![image](https://user-images.githubusercontent.com/87661736/213517541-1c409aca-86c1-4bc0-8ada-3473414857eb.png)
+
+ An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9648241240708334 would indicate a relatively high level of accuracy.
+ 
+![image](https://user-images.githubusercontent.com/87661736/213517848-5ac637b2-7747-4746-a35e-3feed721ece6.png)
+
+## ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # VGG16 TransferLearning Model
