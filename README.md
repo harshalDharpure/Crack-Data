@@ -66,6 +66,7 @@ ResNet-50 is a 50-layer convolutional neural network
  Testing Precision  0.9900990128517151
  Testing Recall  1.0
  
+ 
 ![image](https://user-images.githubusercontent.com/87661736/213517541-1c409aca-86c1-4bc0-8ada-3473414857eb.png)
 
  An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9648241240708334 would indicate a relatively high level of accuracy.
@@ -90,6 +91,7 @@ VGG Net uses a deep neural network, so VGG can extract more information from the
  Testing Acc :  0.9649999737739563
  Testing Precision  0.9696969985961914
  Testing Recall  0.9599999785423279
+ 
  ![image](https://user-images.githubusercontent.com/87661736/213514793-6be93354-a4b6-458b-bcfc-fa1206f99cff.png)
 
 while these values are indicative of good performance, they should be interpreted in the context of the specific task and dataset, and should be compared against a suitable baseline. Additionally, it's always a good idea to test the model on a different set of images to ensure its generalization capabilities.
