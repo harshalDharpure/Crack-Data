@@ -61,6 +61,7 @@ ResNet-50 is a 50-layer convolutional neural network
 
 ## Accuracy Of the Model
 7/7 [==============================] - 2s 85ms/step - loss: 0.0217 - accuracy: 0.9950 - precision: 0.9901 - recall: 1.0000
+
  Testing Acc :  0.9950000047683716
  Testing Precision  0.9900990128517151
  Testing Recall  1.0
@@ -85,6 +86,7 @@ VGG Net uses a deep neural network, so VGG can extract more information from the
 ## Accuracy Of the Model
 
 7/7 [==============================] - 1s 139ms/step - loss: 0.4263 - accuracy: 0.9650 - precision: 0.9697 - recall: 0.9600
+
  Testing Acc :  0.9649999737739563
  Testing Precision  0.9696969985961914
  Testing Recall  0.9599999785423279
