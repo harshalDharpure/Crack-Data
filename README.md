@@ -51,3 +51,27 @@ while these values are indicative of good performance, they should be interprete
 
 
 An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9655172494444295 would indicate a relatively high level of accuracy.
+
+
+
+# VGG16 TransferLearning Model
+
+VGG16 is a 16 layer transfer learning architecture
+VGG Net uses a deep neural network, so VGG can extract more information from the network as it deals multiple parameters.
+
+
+![image](https://user-images.githubusercontent.com/87661736/213514493-0dc35d3a-6cd8-4fa2-907e-051664d10409.png)
+
+## Accuracy Of the Model
+
+7/7 [==============================] - 1s 139ms/step - loss: 0.4263 - accuracy: 0.9650 - precision: 0.9697 - recall: 0.9600
+ Testing Acc :  0.9649999737739563
+ Testing Precision  0.9696969985961914
+ Testing Recall  0.9599999785423279
+ ![image](https://user-images.githubusercontent.com/87661736/213514793-6be93354-a4b6-458b-bcfc-fa1206f99cff.png)
+
+while these values are indicative of good performance, they should be interpreted in the context of the specific task and dataset, and should be compared against a suitable baseline. Additionally, it's always a good idea to test the model on a different set of images to ensure its generalization capabilities.
+ 
+ ![image](https://user-images.githubusercontent.com/87661736/213515187-6cb390c6-9e8a-45d2-8e4c-150f683f2c92.png)
+
+ An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9648241240708334 would indicate a relatively high level of accuracy.
