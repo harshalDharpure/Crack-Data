@@ -1,6 +1,6 @@
 # Crack Detecting using Deep learning/ Transfer Learning
 
- ## Model Description :green_circle: 
+ ## Model Description :brown_square: :brown_square: 
 
 We use ResNet50V2 model from TensorFlow's Keras library for transfer learning. This model is a version of the ResNet50 model that has been updated with improved architecture and performance.
 
@@ -17,7 +17,7 @@ Model: "sequential"
 
 ![download (9)](https://user-images.githubusercontent.com/63531290/212933957-890a6644-acb9-410a-87ec-bbbe512a0b7d.png)
 
-## Accuracy Of the Model :green_circle: :green_circle: :red_circle: :green_circle:
+## Accuracy Of the Model :green_circle: :red_circle: :green_circle:
 
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
  
