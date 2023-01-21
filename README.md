@@ -17,7 +17,7 @@ Model: "sequential"
 
 ![download (9)](https://user-images.githubusercontent.com/63531290/212933957-890a6644-acb9-410a-87ec-bbbe512a0b7d.png)
 
-## Accuracy Of the Model
+## Accuracy Of the Model :green_circle: :green_circle: :red_circle: :green_circle:
 
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
  
@@ -46,12 +46,12 @@ An F1 score is a measure of a model's accuracy that takes into account both prec
 
 ## -------------------------------------------------------------------------------------------------------------------------------------------------
 
-# ResNet50 TransferLearning Model
+# ResNet50 TransferLearning Model :brown_square: :brown_square: 
 ResNet-50 is a 50-layer convolutional neural network
 
 ![image](https://user-images.githubusercontent.com/87661736/213517377-7905dcdb-8e08-44de-8795-92e47d6d2a94.png)
 
-## Accuracy Of the Model
+## Accuracy Of the Model :green_circle: :red_circle: :green_circle:
 7/7 [==============================] - 2s 85ms/step - loss: 0.0217 - accuracy: 0.9950 - precision: 0.9901 - recall: 1.0000
 
 ## Precision Value - 0.9900990128517151 <br>
@@ -70,7 +70,7 @@ ResNet-50 is a 50-layer convolutional neural network
 ## ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# VGG16 TransferLearning Model
+# VGG16 TransferLearning Model :brown_square: :brown_square:
 
 VGG16 is a 16 layer transfer learning architecture
 VGG Net uses a deep neural network, so VGG can extract more information from the network as it deals multiple parameters.
@@ -78,7 +78,7 @@ VGG Net uses a deep neural network, so VGG can extract more information from the
 
 ![image](https://user-images.githubusercontent.com/87661736/213514493-0dc35d3a-6cd8-4fa2-907e-051664d10409.png)
 
-## Accuracy Of the Model
+## Accuracy Of the Model :green_circle: :red_circle: :green_circle:
 
 7/7 [==============================] - 1s 139ms/step - loss: 0.4263 - accuracy: 0.9650 - precision: 0.9697 - recall: 0.9600
 
