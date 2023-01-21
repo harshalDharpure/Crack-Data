@@ -22,7 +22,7 @@ Model: "sequential"
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
  
  
-- ## Precision Value - 0.9801980257034302 <br>
+:diamond_shape_with_a_dot_inside: ## Precision Value - 0.9801980257034302 <br>
 * ## Recall Value -  0.9900000095367432 <br>
 + ## F1- Score - 0.9655172494444295 <br>
 - ## Accuracy: 0.985  98.5% <br>
