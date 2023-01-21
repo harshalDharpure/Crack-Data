@@ -11,21 +11,9 @@ Finally, the model.summary() function call will display the summary of the model
 
 94668760/94668760 [==============================] - 7s 0us/step
 Model: "sequential"
-_________________________________________________________________
- Layer (type)                Output Shape              Param #   
-=================================================================
- resnet50v2 (Functional)     (None, 7, 7, 2048)        23564800  
-                                                                 
- global_average_pooling2d (G  (None, 2048)             0         
- lobalAveragePooling2D)                                          
-                                                                 
- dense (Dense)               (None, 1)                 2049      
-                                                                 
-=================================================================
-Total params: 23,566,849
-Trainable params: 23,521,409
-Non-trainable params: 45,440
-_________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/87661736/213849099-67000ffa-6da4-4fe4-98b5-4b061ec6414b.png)
+
 
 ![download (9)](https://user-images.githubusercontent.com/63531290/212933957-890a6644-acb9-410a-87ec-bbbe512a0b7d.png)
 
