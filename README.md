@@ -34,9 +34,10 @@ _________________________________________________________________
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
  
  
-### Precision Value - 0.9801980257034302 <br>
-### Recall Value -  0.9900000095367432 <br>
-### F1- Score - 0.9655172494444295 <br>
+## Precision Value - 0.9801980257034302 <br>
+## Recall Value -  0.9900000095367432 <br>
+## F1- Score - 0.9655172494444295 <br>
+## Accuracy: 0.985  98.5% <br>
 
  
  ![Screenshot (1271)](https://user-images.githubusercontent.com/63531290/212934954-9b2a073f-8ebd-4039-81ed-f3597ed63b4a.png)
@@ -68,6 +69,7 @@ ResNet-50 is a 50-layer convolutional neural network
 ## Precision Value - 0.9900990128517151 <br>
 ## Recall Value -   1.00000 <br>
 ## F1- Score - 0.9950248771119697 <br>
+## Testing Acc :  0.9950000047683716 <br>
 
  
  
@@ -96,6 +98,7 @@ VGG Net uses a deep neural network, so VGG can extract more information from the
 ## Precision Value - 0.9696969985961914 <br>
 ## Recall Value -   0.9599999785423279 <br>
 ## F1- Score - 0.9648241240708334 <br>
+## Testing Acc :  0.9649999737739563 <br>
 
  
  ![image](https://user-images.githubusercontent.com/87661736/213514793-6be93354-a4b6-458b-bcfc-fa1206f99cff.png)
