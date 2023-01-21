@@ -1,4 +1,4 @@
-# Crack Detecting using Deep learning/ Transfer Learning :large_orange_diamond:
+# Crack Detecting using Deep learning/ Transfer Learning 
 
  ## Model Description :blue_square:	:yellow_square: :purple_square:
 
