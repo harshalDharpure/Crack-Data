@@ -46,7 +46,7 @@ An F1 score is a measure of a model's accuracy that takes into account both prec
 
 ## -------------------------------------------------------------------------------------------------------------------------------------------------
 
-# ResNet50 TransferLearning Model :brown_square: :brown_square: :small_red_triangle_down:
+# ResNet50 TransferLearning Model :blue_square:	:yellow_square: :purple_square:
 ResNet-50 is a 50-layer convolutional neural network
 
 ![image](https://user-images.githubusercontent.com/87661736/213517377-7905dcdb-8e08-44de-8795-92e47d6d2a94.png)
@@ -70,7 +70,7 @@ ResNet-50 is a 50-layer convolutional neural network
 ## ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# VGG16 TransferLearning Model :brown_square: :brown_square: :small_red_triangle_down:
+# VGG16 TransferLearning Model :blue_square:	:yellow_square: :purple_square:
 
 VGG16 is a 16 layer transfer learning architecture
 VGG Net uses a deep neural network, so VGG can extract more information from the network as it deals multiple parameters.
