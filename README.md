@@ -1,6 +1,6 @@
 # Crack Detecting using Deep learning/ Transfer Learning
 
- ## Model Description :blue_square: :red_square: :purple_square:
+ ## Model Description :blue_square:	:yellow_square: :purple_square:
 
 We use ResNet50V2 model from TensorFlow's Keras library for transfer learning. This model is a version of the ResNet50 model that has been updated with improved architecture and performance.
 
