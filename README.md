@@ -32,9 +32,12 @@ _________________________________________________________________
 ## Accuracy Of the Model
 
 7/7 [==============================] - 2s 121ms/step - loss: 0.1909 - accuracy: 0.9850 - precision: 0.9802 - recall: 0.9900
- Testing Acc :  0.9850000143051147
- Testing Precision  0.9801980257034302
- Testing Recall  0.9900000095367432
+ 
+ 
+##Precision Value - 0.9801980257034302
+##Recall Value -  0.9900000095367432
+##F1- Score - 0.9655172494444295
+
  
  ![Screenshot (1271)](https://user-images.githubusercontent.com/63531290/212934954-9b2a073f-8ebd-4039-81ed-f3597ed63b4a.png)
 
@@ -62,14 +65,15 @@ ResNet-50 is a 50-layer convolutional neural network
 ## Accuracy Of the Model
 7/7 [==============================] - 2s 85ms/step - loss: 0.0217 - accuracy: 0.9950 - precision: 0.9901 - recall: 1.0000
 
- Testing Acc :  0.9950000047683716
- Testing Precision  0.9900990128517151
- Testing Recall  1.0
+##Precision Value - 0.9900990128517151
+##Recall Value -   1.00000
+##F1- Score - 0.9950248771119697
+
  
  
 ![image](https://user-images.githubusercontent.com/87661736/213517541-1c409aca-86c1-4bc0-8ada-3473414857eb.png)
 
- An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9648241240708334 would indicate a relatively high level of accuracy.
+ An F1 score is a measure of a model's accuracy that takes into account both precision and recall. The F1 score ranges from 0 to 1, with a score of 1 indicating perfect accuracy and a score of 0 indicating complete inaccuracy. A score of 0.9950248771119697 would indicate a relatively high level of accuracy.
  
 ![image](https://user-images.githubusercontent.com/87661736/213517848-5ac637b2-7747-4746-a35e-3feed721ece6.png)
 
@@ -88,9 +92,11 @@ VGG Net uses a deep neural network, so VGG can extract more information from the
 
 7/7 [==============================] - 1s 139ms/step - loss: 0.4263 - accuracy: 0.9650 - precision: 0.9697 - recall: 0.9600
 
- Testing Acc :  0.9649999737739563
- Testing Precision  0.9696969985961914
- Testing Recall  0.9599999785423279
+
+##Precision Value - 0.9696969985961914
+##Recall Value -   0.9599999785423279
+##F1- Score - 0.9648241240708334
+
  
  ![image](https://user-images.githubusercontent.com/87661736/213514793-6be93354-a4b6-458b-bcfc-fa1206f99cff.png)
 
