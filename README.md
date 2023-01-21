@@ -1,4 +1,4 @@
-:large_orange_diamond: :# Crack Detecting using Deep learning/ Transfer Learning
+# Crack Detecting using Deep learning/ Transfer Learning
 
 ## Model Description
 
